@@ -1,0 +1,2 @@
+# Python build dependency (Conan 1.x — required by build.ps1 / CMake)
+conan<2
